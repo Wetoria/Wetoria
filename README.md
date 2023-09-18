@@ -8,7 +8,9 @@ Also, you can contact me on Wechat, `vWetoria` is my Wechat account.
 
 ## About Me
 
-My major career is Frontend-Engineer. Meanwhile, I'm a teacher too on the Network.
+My major career is Frontend-Engineer.
+
+Meanwhile, I'm a teacher too on the Network.
 
 In order to help you cheating on frontend and study. I wrote two wiki, `Simplest-Frontend` and `Simplest-Study`.
 
