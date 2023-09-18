@@ -12,7 +12,9 @@ My major career is Frontend-Engineer.
 
 Meanwhile, I'm a teacher too on the Network.
 
-In order to help you cheating on frontend and study. I wrote two wikis, [Simplest-Frontend(sfe.wiki)](https://sfe.wiki) and [Simplest-Study(sstudy.wiki)](https://sstudy.wiki).
+In order to help you **Cheating on Frontend and Study**.
+
+I wrote two wiki, [Simplest-Frontend(sfe.wiki)](https://sfe.wiki) and [Simplest-Study(sstudy.wiki)](https://sstudy.wiki).
 
 ## Some Channels
 
