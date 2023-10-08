@@ -19,7 +19,7 @@ In order to help you **Cheating on Frontend and Study**. I wrote two wiki,
 
 ## Some Channels
 
-[爱发电](https://afdian.net/a/Wetoria)｜[Bilibili](https://space.bilibili.com/1905493)｜[知乎](https://www.zhihu.com/people/wetoria)｜[小红书](https://www.xiaohongshu.com/user/profile/633ec36b000000001901d452?xhsshare=CopyLink&appuid=633ec36b000000001901d452&apptime=1695011375)｜[掘金](https://juejin.cn/user/2682464104099694)
+[爱发电](https://afdian.net/a/Wetoria)｜[掘金](https://juejin.cn/user/2682464104099694)｜[知乎](https://www.zhihu.com/people/wetoria)｜[小红书](https://www.xiaohongshu.com/user/profile/633ec36b000000001901d452?xhsshare=CopyLink&appuid=633ec36b000000001901d452&apptime=1695011375)｜[Bilibili](https://space.bilibili.com/1905493)
 
 <!--
 **Wetoria/Wetoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
