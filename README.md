@@ -2,6 +2,8 @@
 
 A `Programmer`, `Life Hacker`, `Gamer`, so on...
 
+If you wanna know me more, see: [𝓦𝓮𝓽𝓸𝓻𝓲𝓪](https://simplest-frontend.feishu.cn/wiki/wikcnHmIs4HagSlJPiti2VESQEh)
+
 You can contact me on Feishu in time. Click [Vip](https://www.feishu.cn/invitation/page/add_contact/?token=d8fn4b75-48ac-4726-b4d7-b499073fbd6d) this link to contact with me.
 
 Also, you can contact me on Wechat, `vWetoria` is my Wechat account.
