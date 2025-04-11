@@ -25,6 +25,7 @@ Contact me
 ｜[Feishu](https://www.feishu.cn/invitation/page/add_contact/?token=d8fn4b75-48ac-4726-b4d7-b499073fbd6d)
 ｜[QQ](https://qm.qq.com/q/alsQpmCeZy)
 ｜[Discord](https://discordapp.com/users/563045745406771220)
+｜[Telegram](https://t.me/wetoria)
 ｜[X](https://x.com/wetoriav)
 ｜[爱发电](https://afdian.net/a/Wetoria)
 ｜[Mastodon](https://c7.io/@Wetoria)
