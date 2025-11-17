@@ -6,11 +6,11 @@ If you wanna know me more, see: [𝓦𝓮𝓽𝓸𝓻𝓲𝓪](https://wetoria.m
 
 You can reach me via the platforms listed below — the order reflects my activity level (the higher up, the more active).
 
-- [QQ](https://qm.qq.com/q/alsQpmCeZy)
-- [Vip](https://www.feishu.cn/invitation/page/add_contact/?token=d8fn4b75-48ac-4726-b4d7-b499073fbd6d) - Feishu/Lark
-- Wetoriav - WeChat
-- [X](https://x.com/wetoriav)
-- [Telegram](https://t.me/wetoria)
+｜[QQ](https://qm.qq.com/q/alsQpmCeZy)
+｜[Vip](https://www.feishu.cn/invitation/page/add_contact/?token=d8fn4b75-48ac-4726-b4d7-b499073fbd6d) - Feishu/Lark
+｜Wetoriav - WeChat
+｜[X](https://x.com/wetoriav)
+｜[Telegram](https://t.me/wetoria)
 
 Also, you can contact me on Wechat, `Wetoriav` is my Wechat account.
 
@@ -28,7 +28,7 @@ In order to help you **Cheating on Frontend and Study**. I wrote two wiki,
 ## Some Channels
 
 Contact me
-｜[Feishu](https://www.feishu.cn/invitation/page/add_contact/?token=d8fn4b75-48ac-4726-b4d7-b499073fbd6d)
+｜[Feishu/Lark](https://www.feishu.cn/invitation/page/add_contact/?token=d8fn4b75-48ac-4726-b4d7-b499073fbd6d)
 ｜[QQ](https://qm.qq.com/q/alsQpmCeZy)
 ｜[Discord](https://discordapp.com/users/563045745406771220)
 ｜[Telegram](https://t.me/wetoria)
