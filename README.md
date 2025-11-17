@@ -12,8 +12,6 @@ You can reach me via the platforms listed below — the order reflects my activi
 ｜[X](https://x.com/wetoriav)
 ｜[Telegram](https://t.me/wetoria)
 
-Also, you can contact me on Wechat, `Wetoriav` is my Wechat account.
-
 ## About Me
 
 My major career is Frontend-Engineer.
